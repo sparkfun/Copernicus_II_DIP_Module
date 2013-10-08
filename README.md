@@ -13,7 +13,6 @@ License Information
 -------------------
 The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-
 Version History
 ---------------
 * [GPS-11067 - v13](https://github.com/sparkfun/Copernicus_II_DIP_Module/tree/79d04dc032e8ecc2a1069bf3677cde6e07c77bf1
