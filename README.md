@@ -1,13 +1,14 @@
 Copernicus II DIP Module
 ========================
 [![Copernicus II DIP Module]( https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/8/5/8/11858-01_medium.jpg)
-*Copernicus II DIP Module (GPS-11067)*](https://www.sparkfun.com/products/11858)
+*Copernicus II DIP Module (GPS-11858)*](https://www.sparkfun.com/products/11858)
 
 This breakout board allows access to the SMD pins of the Copernicus II GPS module from Trimble. 
 
 Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
+* **/Production** - Test bed files and production panel files
 
 License Information
 -------------------
