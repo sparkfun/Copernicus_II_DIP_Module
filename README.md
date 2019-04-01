@@ -11,6 +11,9 @@ Repository Contents
 * **/Libraries** - All Arduino libraries and board examples
 * **/Production** - Test bed files and production panel files
 
+Documentation
+-------------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/copernicus-ii-hookup-guideLearn.SparkFun URL)** - Basic hookup guide
 
 Version History
 ---------------
