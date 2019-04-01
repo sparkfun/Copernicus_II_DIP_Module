@@ -15,7 +15,7 @@ Repository Contents
 
 Documentation
 -------------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/copernicus-ii-hookup-guideLearn.SparkFun URL)** - Basic hookup guide
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/copernicus-ii-hookup-guide)** - Basic hookup guide
 
 Version History
 ---------------
