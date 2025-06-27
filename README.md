@@ -1,7 +1,7 @@
 Copernicus II DIP Module
 ========================
 
-[![Copernicus II DIP Module]( https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/8/5/8/11858-01_medium.jpg)](https://www.sparkfun.com/products/11858)
+[![Copernicus II DIP Module](https://cdn.sparkfun.com/assets/parts/8/2/5/6/11858-01.jpg)
 
 [*Copernicus II DIP Module (GPS-11858)*](https://www.sparkfun.com/products/11858)
 
